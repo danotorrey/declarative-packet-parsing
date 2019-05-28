@@ -1,6 +1,4 @@
-import com.dantorrey.Ipv4Packet;
 import com.dantorrey.Pcap;
-import io.kaitai.struct.ByteBufferKaitaiStream;
 
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;
